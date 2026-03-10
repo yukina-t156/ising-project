@@ -1,0 +1,36 @@
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Julia files #
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/deps/deps.jl
+
+# Documentation #
+/docs/build/
+/docs/site/
+
+# Build directories #
+/build/
+/dist/
+
+# IDE #
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS #
+.DS_Store
+Thumbs.db
+
+# Project specific #
+*.log
